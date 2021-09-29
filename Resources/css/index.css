@@ -1,0 +1,27 @@
+.hd{
+    /*background-image: url('../img/pattern.jpeg');*/
+   background-image: url('../img/pattern.jpeg');
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+.bl{
+    background-color: mediumspringgreen;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+.bl.a{
+    background-color: lightcoral;
+}
+.bl.b{
+    background-color: skyblue;
+}
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.blue{
+    font-weight: bold;
+    color: blue;
+}
